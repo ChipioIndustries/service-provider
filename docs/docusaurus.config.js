@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ServiceProvider',
-  tagline: 'TAGLINE_HERE',
+  tagline: 'A library for enabling injection of mock services for unit testing.',
   url: 'https://chipioindustries.github.io',
   baseUrl: '/service-provider/',
   onBrokenLinks: 'throw',

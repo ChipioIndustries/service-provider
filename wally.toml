@@ -1,6 +1,6 @@
 [package]
 name = "chipioindustries/service-provider"
-description = "package_description_here"
+description = "A library for enabling injection of mock services for unit testing."
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
