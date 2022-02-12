@@ -11,7 +11,7 @@ function ServiceProvider:getService(serviceName: string, _isLiveGameOverride)
 		local service = serviceCache[serviceName]
 
 		if not service then
-			local module = script.Parent:FindFirstChild(serviceName)
+			local module = script.Parent:FindFirstChild(serviceName) or script.Parent:FindFirstChild("Mock" .. serviceName)
 
 			if module then
 				service = require(module)
