@@ -11,7 +11,7 @@ ServiceProvider can be installed using Wally, an open-source package manager for
 * Add this line to your `wally.toml` file under `[dependencies]`:
 
 	```toml
-	ServiceProvider = "chipioindustries/service-provider@0.1.0"
+	ServiceProvider = "chipioindustries/service-provider@1.0.0"
 	```
 
 * Then run `wally install` to install the package.

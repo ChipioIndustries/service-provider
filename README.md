@@ -4,18 +4,14 @@
 
 # ServiceProvider
 
-ServiceProvider is a template for creating Roblox package repositories.
-
-# TODO
-
-* Copy the contents of your .wally/auth.toml file into a Github secret named "WALLY_AUTH"
+ServiceProvider is a module that enables injection of mock services for unit testing.
 
 ## Installing with Wally
 
 * Add this line to your `wally.toml` file under `[dependencies]`:
 
 	```toml
-	ServiceProvider = "chipioindustries/service-provider@0.1.0"
+	ServiceProvider = "chipioindustries/service-provider@1.0.0"
 	```
 
 * Then run `wally install` to install the package.
