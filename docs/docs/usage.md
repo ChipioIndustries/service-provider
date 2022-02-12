@@ -13,7 +13,7 @@ local PACKAGE_NAME_HERE = require(ReplicatedStorage.Packages.PACKAGE_NAME_HERE)
 ```
 
 ```lua
-local package_name_here = PACKAGE_NAME_HERE.new()
+local serviceProvider = PACKAGE_NAME_HERE.new()
 ```
 
 ## Concept

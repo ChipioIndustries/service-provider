@@ -1,6 +1,6 @@
-![Unit Tests](https://github.com/chipioindustries/package_name_here/actions/workflows/ci.yml/badge.svg)
-![Create Release](https://github.com/chipioindustries/package_name_here/actions/workflows/release.yml/badge.svg)
-![Docs Deploy](https://github.com/chipioindustries/package_name_here/actions/workflows/docs-deploy.yml/badge.svg)
+![Unit Tests](https://github.com/chipioindustries/service-provider/actions/workflows/ci.yml/badge.svg)
+![Create Release](https://github.com/chipioindustries/service-provider/actions/workflows/release.yml/badge.svg)
+![Docs Deploy](https://github.com/chipioindustries/service-provider/actions/workflows/docs-deploy.yml/badge.svg)
 
 # PACKAGE_NAME_HERE
 
@@ -14,7 +14,7 @@ PACKAGE_NAME_HERE is a template for creating Roblox package repositories.
 |Term|Replace with|
 |-|-|
 |chipioindustries|your github username|
-|package_name_here|your package name|
+|service-provider|your package name|
 |PACKAGE_NAME_HERE|your package name as it appears to users and as a Studio instance|
 |package_description_here|your package description|
 |TAGLINE_HERE|your package tagline|
@@ -26,9 +26,9 @@ PACKAGE_NAME_HERE is a template for creating Roblox package repositories.
 * Add this line to your `wally.toml` file under `[dependencies]`:
 
 	```toml
-	PACKAGE_NAME_HERE = "chipioindustries/package_name_here@0.1.0"
+	PACKAGE_NAME_HERE = "chipioindustries/service-provider@0.1.0"
 	```
 
 * Then run `wally install` to install the package.
 
-For usage instructions, see the [documentation](https://chipioindustries.github.io/package_name_here).
+For usage instructions, see the [documentation](https://chipioindustries.github.io/service-provider).

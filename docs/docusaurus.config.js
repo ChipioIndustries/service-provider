@@ -9,7 +9,7 @@ const config = {
   title: 'PACKAGE_NAME_HERE',
   tagline: 'TAGLINE_HERE',
   url: 'https://chipioindustries.github.io',
-  baseUrl: '/package_name_here/',
+  baseUrl: '/service-provider/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -51,7 +51,7 @@ const config = {
             label: 'Get Started',
           },
           {
-            href: 'https://github.com/chipioindustries/package_name_here',
+            href: 'https://github.com/chipioindustries/service-provider',
             label: 'GitHub',
             position: 'right',
           },

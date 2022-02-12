@@ -1,5 +1,5 @@
 {
-	"name": "package_name_here",
+	"name": "service-provider",
 	"tree": {
 		"$className": "DataModel",
 	
