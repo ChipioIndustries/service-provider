@@ -12,7 +12,7 @@
 			"Packages": {
 				"$className": "Folder",
 				"$path": "../Packages",
-				"PACKAGE_NAME_HERE": {
+				"ServiceProvider": {
 					"$path": "../default.project.json"
 				}
 			}

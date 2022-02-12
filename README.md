@@ -2,9 +2,9 @@
 ![Create Release](https://github.com/chipioindustries/service-provider/actions/workflows/release.yml/badge.svg)
 ![Docs Deploy](https://github.com/chipioindustries/service-provider/actions/workflows/docs-deploy.yml/badge.svg)
 
-# PACKAGE_NAME_HERE
+# ServiceProvider
 
-PACKAGE_NAME_HERE is a template for creating Roblox package repositories.
+ServiceProvider is a template for creating Roblox package repositories.
 
 ## SETTING UP REPOSITORY (REMOVE THIS)
 
@@ -15,7 +15,7 @@ PACKAGE_NAME_HERE is a template for creating Roblox package repositories.
 |-|-|
 |chipioindustries|your github username|
 |service-provider|your package name|
-|PACKAGE_NAME_HERE|your package name as it appears to users and as a Studio instance|
+|ServiceProvider|your package name as it appears to users and as a Studio instance|
 |package_description_here|your package description|
 |TAGLINE_HERE|your package tagline|
 
@@ -26,7 +26,7 @@ PACKAGE_NAME_HERE is a template for creating Roblox package repositories.
 * Add this line to your `wally.toml` file under `[dependencies]`:
 
 	```toml
-	PACKAGE_NAME_HERE = "chipioindustries/service-provider@0.1.0"
+	ServiceProvider = "chipioindustries/service-provider@0.1.0"
 	```
 
 * Then run `wally install` to install the package.

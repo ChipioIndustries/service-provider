@@ -9,11 +9,11 @@ Begin by requiring the module.
 ```lua
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
-local PACKAGE_NAME_HERE = require(ReplicatedStorage.Packages.PACKAGE_NAME_HERE)
+local ServiceProvider = require(ReplicatedStorage.Packages.ServiceProvider)
 ```
 
 ```lua
-local serviceProvider = PACKAGE_NAME_HERE.new()
+local serviceProvider = ServiceProvider.new()
 ```
 
 ## Concept

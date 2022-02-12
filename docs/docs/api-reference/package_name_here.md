@@ -2,14 +2,14 @@
 sidebar_position: 1
 ---
 
-# PACKAGE_NAME_HERE
+# ServiceProvider
 
 A brief description of the class.
 
 ## Constructor
 
 ```lua
-local serviceProvider = PACKAGE_NAME_HERE.new()
+local serviceProvider = ServiceProvider.new()
 ```
 
 ### Parameters

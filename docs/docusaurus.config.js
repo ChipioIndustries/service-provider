@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PACKAGE_NAME_HERE',
+  title: 'ServiceProvider',
   tagline: 'TAGLINE_HERE',
   url: 'https://chipioindustries.github.io',
   baseUrl: '/service-provider/',
@@ -38,7 +38,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'PACKAGE_NAME_HERE',
+        title: 'ServiceProvider',
         logo: {
           alt: 'Site Logo',
           src: 'img/logo.png',
